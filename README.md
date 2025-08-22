@@ -10,3 +10,5 @@ Example AHK Script, assuming you place this executable in the same directory:
 
 F1::RunWait("ToggleProcessSuspend.exe VotV-Win64-Shipping", A_WorkingDir, "Hide")
 ```
+
+Download latest compiled exe [here.](https://github.com/Shaosil/ToggleProcessSuspend/releases/latest/download/ToggleProcessSuspend.exe)
