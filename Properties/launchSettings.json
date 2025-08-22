@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ToggleProcessSuspend": {
+      "commandName": "Project",
+      "commandLineArgs": "VotV-Win64-Shipping"
+    }
+  }
+}
